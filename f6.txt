@@ -1,0 +1,3 @@
+Hola.Que tal?
+8.25
+El numero 27 en hexadecimal es 1b
